@@ -10,7 +10,7 @@
                 Console.WriteLine("Demo program (c) Kelsey 2022");
                 return;
             }
-            var server = new System.Uri("irc.efnet.org");
+            var server = new System.Uri("irc://irc.efnet.org");
             var username = args[0];
             Console.WriteLine("Connecting to {0} as {1}", server, username);
             using (var client = new IrcDotNet.StandardIrcClient())
