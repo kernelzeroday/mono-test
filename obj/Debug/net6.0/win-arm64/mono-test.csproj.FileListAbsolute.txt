@@ -1,0 +1,15 @@
+/Users/kod/code/mono-test/bin/Debug/net6.0/win-arm64/mono-test.exe
+/Users/kod/code/mono-test/bin/Debug/net6.0/win-arm64/mono-test.deps.json
+/Users/kod/code/mono-test/bin/Debug/net6.0/win-arm64/mono-test.runtimeconfig.json
+/Users/kod/code/mono-test/bin/Debug/net6.0/win-arm64/mono-test.dll
+/Users/kod/code/mono-test/bin/Debug/net6.0/win-arm64/mono-test.pdb
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.csproj.AssemblyReference.cache
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.AssemblyInfoInputs.cache
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.AssemblyInfo.cs
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.csproj.CoreCompileInputs.cache
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.dll
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/refint/mono-test.dll
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.pdb
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/mono-test.genruntimeconfig.cache
+/Users/kod/code/mono-test/obj/Debug/net6.0/win-arm64/ref/mono-test.dll
