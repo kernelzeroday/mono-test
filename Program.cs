@@ -15,7 +15,7 @@
             Console.WriteLine("Connecting to {0} as {1}", server, username);
             using (var client = new IrcDotNet.StandardIrcClient())
             {
-                client.Connect(server, new IrcUserRegistrationInfo { NickName = username });
+                client.Connect(server, new IrcUserRegistrationInfo { NickName = username, UserName = username, RealName = "Kelsey" });
             }
         }
     }
