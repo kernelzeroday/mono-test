@@ -16,6 +16,11 @@
             using (var client = new IrcDotNet.StandardIrcClient())
             {
                 client.Connect(server, new IrcUserRegistrationInfo { NickName = username, UserName = username, RealName = "Kelsey" });
+                client.Connected += (sender, e) =>
+                {
+                    Console.WriteLine("Connected to {0}", server);
+                    client.LocalUser.SendMessage("#test", "Hello world!");
+                };
             }
         }
     }
